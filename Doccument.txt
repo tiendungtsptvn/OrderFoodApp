@@ -1,0 +1,4 @@
+-Có sử dụng thêm thư viện từ bên ngoài(xem trong dependencies)
+-Sử dụng firebase để lưu dữ liệu, dữ liệu được lưu ở dạng JSON tree nên cần được convert cho phù hợp
+-Có sử dụng Navigation Drawer Activity(hay còn được gọi là Slide Menu-nó chính là menu trên thanh actionbar
+thể hiện bởi 3 dấu gạch ngang xếp theo hàng dọc).
